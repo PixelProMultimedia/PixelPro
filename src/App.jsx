@@ -3,7 +3,6 @@ import { AnimatePresence, motion } from "framer-motion";
 import Navbar from "./components/Navbar";
 import WhatsAppFloat from "./components/WhatsAppFloat";
 import TrustTicker from "./components/TrustTicker";
-import Home from "./pages/Home/";
 import About from "./pages/About/";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
